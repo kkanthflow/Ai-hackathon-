@@ -1,0 +1,7 @@
+wikipedia
+sympy
+SpeechRecognition
+matplotlib
+numpy
+PyQt6
+PyPDF2
